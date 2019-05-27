@@ -1,0 +1,15 @@
+.data-clouser{
+    width: 200px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.number-calculator-item{
+  width: 25px;
+  height: 25px;
+  display: flex;
+  cursor: pointer;
+  border:solid 1px #ccc;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-content: center;
+}
